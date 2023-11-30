@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/725693252.svg)](https://zenodo.org/doi/10.5281/zenodo.10231522)  
 code used for the NPF ranking method manuscript
 
 ## some brief info about the folders 
